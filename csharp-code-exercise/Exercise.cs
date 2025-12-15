@@ -3,7 +3,7 @@ namespace exercise;
 public class Exercise
 {
     /// <summary>
-    /// Given the input year, month and a collection of addresses with associated 
+    /// Given the input year, month, and a collection of addresses with associated 
     /// subscriptions, find all the subscriptions that are active.
     /// 
     /// A subscription is considered active when its activation 
